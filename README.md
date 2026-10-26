@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23658499.svg)](https://doi.org/10.5281/zenodo.23658499)
+
 # Wonder Island — Does Muse Wonder play?
 
 **A pre-registered replication-and-extension of Cloos et al. (2026), "Is this machine playing?"**
