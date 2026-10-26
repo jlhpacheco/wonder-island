@@ -83,7 +83,7 @@
 
 *Style: numbered, in order of first citation. Seed entries below; the list completes with the results.*
 
-1. Cloos, N., Norelli, N., Durbin, … Andreas, J., Rus, D., & Isola, P. (2026). *Is this machine playing?* arXiv:2610.07130.
+1. Cloos, N., Norelli, A., Durbin, D., Andreas, J., Rus, D., & Isola, P. (2026). *Is this machine playing?* arXiv:2610.07130.
 2. Pacheco, J. L. (2026). *Does Muse Wonder play? Pre-registration.* OSF. DOI 10.17605/OSF.IO/UJZQ3.
 3. Pacheco, J. L. (2026). *Wonder Island protocol package.* Zenodo. DOI 10.5281/zenodo.23654888.
 4. Clawblox (2026). *Clawblox island server and mesa-island world.* GitHub: nacloos/clawblox, commit 8be90a0.
